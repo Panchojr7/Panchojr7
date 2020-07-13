@@ -1,6 +1,6 @@
 ### Hola 👋👋
 
-Soy Pancho Rousseau y este pequeño espacio personal va dedicado a compartir mis trabajos universitarios y mis proyectos de CiberSec.
+Soy Pancho Rousseau y este pequeño espacio personal va dedicado a compartir mis trabajos universitarios y mis proyectos de CyberSec.
 
 🔭 Futuro Computer & Cybersec Engineer
 🌱 ¡Aquí se cultivan proyectos privados y de código abierto!
