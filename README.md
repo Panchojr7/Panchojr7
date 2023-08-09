@@ -12,7 +12,7 @@ Aquí podrás encontrar desde repos de ciencia de datos hasta cosas de cibersegu
 
 <div>
 <a href="https://github.com/Panchojr7">
-<img height="180em" src="https://github-readme-stats-swart-sigma.vercel.app/api?username=Panchojr7&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-swart-sigma.vercel.app/api?username=Panchojr7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-swart-sigma.vercel.app/api/top-langs/?username=Panchojr7&layout=compact&langs_count=6&theme=dark"/>
 </div> 
 
